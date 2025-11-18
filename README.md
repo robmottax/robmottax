@@ -31,4 +31,4 @@ Future AI/ML researcher, building from **Cloud and Data foundations** into **Mac
 ---
 
 ### Connect  
-**Email:** rob@mottax.ai • **GitHub:** [@robmottax](https://github.com/robmottax)  
+**Email:** robmottax@gmail.com • **GitHub:** [@robmottax](https://github.com/robmottax)  
