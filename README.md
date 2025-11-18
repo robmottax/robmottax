@@ -3,8 +3,8 @@
 Future AI/ML researcher, building from **Cloud and Data foundations** into **Machine Learning and Research**.  
 
 - Currently building my public lab notebook: **[ai-journey](https://github.com/robmottax/ai-journey)**
-- Goal: Hybrid path → Cloud/ML Engineer → Researcher
-- Based in San Francisco  
+- Goal: Hybrid path → Cloud/ML Engineer
+- Based in Oregon  
 - robmottax@gmail.com  
 - mottax.ai *(coming soon)*  
 
