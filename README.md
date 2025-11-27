@@ -1,34 +1,28 @@
-# Hey, I’m Rob  
+# Hey, I’m Rob 👋
 
-Future AI/ML researcher, building from **Cloud and Data foundations** into **Machine Learning and Research**.  
-
-- Currently building my public lab notebook: **[ai-journey](https://github.com/robmottax/ai-journey)**
-- Goal: Hybrid path → Cloud/ML Engineer
-- Based in Oregon  
-- robmottax@gmail.com  
-- mottax.ai *(coming soon)*  
+Dedicated **Cloud Engineering Trainee** and lifelong learner, building my foundation in **AWS, Infrastructure as Code, and Automation**.
 
 ---
 
-## Current Focus  
-- Mastering fundamentals: **Python, Git, Data, Cloud, ML**  
-- Running small, reproducible experiments and logging results  
-- Reading papers and writing concise takeaways in public  
+## Current Focus ☁️
+
+- **Certifications:** AWS Certified Cloud Practitioner (CLF-C02) $\rightarrow$ Solutions Architect - Associate (SAA-C03).
+- **Infrastructure as Code (IaC):** Mastering **Terraform** for resilient, repeatable infrastructure deployment.
+- **Automation:** Deepening skills in **Python** and **Linux/Bash** for scripting and server management.
 
 ---
 
-## Featured  
-- [**AI Journey**](https://github.com/robmottax/ai-journey) — public roadmap, notes, and experiments  
+## My Public Lab 🚀
+
+- **[Cloud Engineering Lab](https://github.com/robmottax/ai-journey)** (Renamed/Re-focused repo) — Public roadmap, notes, and hands-on projects for my Cloud Engineering journey.
+- **Goal:** Hybrid Path → Cloud Engineer focused on robust, scalable infrastructure.
+- **Connect:** [robmottax@gmail.com](mailto:robmottax@gmail.com)
+- **Based:** Oregon, USA
 
 ---
 
-## About Me  
-- Lifelong learner, recently pivoting from **investment advisory** into **Cloud + AI/ML**  
-- Driven by **curiosity, purpose, and gratitude**  
-- Passionate about human consciousness and how AI can help us evolve  
-- Philosophy: *with agency and perseverance, almost anything can be achieved*  
+## Background & Philosophy
 
----
-
-### Connect  
-**Email:** robmottax@gmail.com • **GitHub:** [@robmottax](https://github.com/robmottax)  
+- **Pivoting** from **Investment Advisory** into **Cloud Engineering**.
+- I believe in achieving ambitious goals through focused **agency and perseverance**.
+- Driven by curiosity and a commitment to continuous learning.
