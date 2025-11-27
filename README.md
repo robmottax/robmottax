@@ -14,7 +14,7 @@ Dedicated **Cloud Engineering Trainee** and lifelong learner, building my founda
 
 ## My Public Lab 🚀
 
-- **[Cloud Engineering Lab](https://github.com/robmottax/ai-journey)** (Renamed/Re-focused repo) — Public roadmap, notes, and hands-on projects for my Cloud Engineering journey.
+- **[Cloud Engineering Lab](https://github.com/robmottax/ai-journey)** — Public roadmap, notes, and hands-on projects for my Cloud Engineering journey.
 - **Goal:** Hybrid Path → Cloud Engineer focused on robust, scalable infrastructure.
 - **Connect:** [robmottax@gmail.com](mailto:robmottax@gmail.com)
 - **Based:** Oregon, USA
