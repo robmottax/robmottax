@@ -1,27 +1,29 @@
 # Hey, I’m Rob 
 
-Dedicated **Cloud Engineering Student** and lifelong learner, building my foundation in **All Things Cloud**.
+Cloud Engineering student building strong foundations in **AWS, Linux, Networking, and Automation**.
 
 ---
 
-## Current Focus 
+## Current Focus
 
-- **Certifications:** AWS Certified Cloud Practitioner (CLF-C02) $\rightarrow$ Solutions Architect - Associate (SAA-C03).
-- **Courses:** Learn to Cloud by GPS, Labex, AWS Skills Builder 
-- **Automation:** Deepening skills in **Python** and **Linux/Bash** for scripting and server management.
-
----
-
-## Projects & Research
-
-- **Cloud Engineering Lab** — I maintain a private sandbox for my roadmap, technical notes, and hands-on experiments (currently exploring Cloud Infrastructure).
-- **Goal:** Cloud Engineer focused on robust, scalable infrastructure.
-- **Based:** Seattle, WA USA
+- **Certifications:** AWS Certified Cloud Practitioner (CLF-C02) → Solutions Architect – Associate (SAA-C03)
+- **Courses:** Learn to Cloud (GPS), LabEx, AWS Skills Builder  
+- **Foundations:** Linux, Networking  
+- **Automation:** Python & Bash for scripting and basic server automation  
+- **Cloud Exposure:** AWS (primary), with introductory experience in GCP and future Azure coverage
 
 ---
 
-## Background & Philosophy
+## Projects & Hands-On Work
 
-- **Pivoting** from **Investment Advisory** into **Cloud Engineering**.
-- I believe in achieving ambitious goals through focused **agency and perseverance**.
-- Driven by curiosity and a commitment to continuous learning.
+- **Cloud Engineering Lab** — Private sandbox for roadmap tracking, technical notes, and hands-on experiments  
+- Building practical AWS labs and documenting my learning journey  
+- Goal: Design and operate **reliable, scalable cloud infrastructure**
+
+---
+
+## Background
+
+- Transitioning from **Investment Advisory** into **Cloud Engineering**  
+- Strong focus on disciplined learning, hands-on practice, and building real-world skills  
+- Based in **Seattle, WA**
