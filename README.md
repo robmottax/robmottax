@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hey, I’m Rob
 
-<!--
-**robmottax/robmottax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Engineering student building foundations in **AWS, Linux, Networking, and Automation** through hands-on labs and projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Proof (In Progress)
+- Cloud Engineering Lab (Sandbox)  
+  - Tools: Linux, AWS  
+  - Focus: CLI workflows, environment setup, learning logs  
+
+- AWS Hands-on Labs  
+  - Tools: EC2, IAM, VPC  
+  - Focus: Core cloud fundamentals  
+
+> Goal: Build reliable, scalable cloud infrastructure with automation.
+
+---
+
+## Current Focus
+- Linux fundamentals  
+- Networking basics  
+- Intro Bash  
+- AWS foundations  
+
+---
+
+## Learning
+- Learn2Cloud Course (GPS) 
+- AWS CLF-C02 → SAA-C03  
+- Platforms: Learn2Cloud, AWS Skill Builder, LabEx  
+
+---
+
+## Tech Stack (Current Exposure)
+- Linux | AWS  
+- GCP (intro exposure)  
+- Bash  
+- Git/GitHub & Terraform (upcoming)
+
+---
+
+## Connect
+- https://github.com/robmottax  
+- robmotta.cloud@gmail.com  
